@@ -10,7 +10,7 @@
 
 |Folder   |Description                         |
 |:--        |:--                          |
-|`simplecnnlac`       |3-layer CNN (1CONV+2FC) based on QAT&LAC           |
+|`simplecnn_lac`       |3-layer CNN (1CONV+2FC) based on QAT&LAC           |
 |`alexnet_lac`       |8-layerCNN (5CONV+3FC) based on QAT&LAC            |
 |`vgg11_lac`       |11-layerCNN (8CONV+3FC) based on QAT&LAC            |
 |`quantizer`       |INT8 quantization module            |
