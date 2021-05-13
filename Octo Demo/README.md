@@ -11,12 +11,14 @@
 |Folder   |Description                         |
 |:--        |:--                          |
 |`simplecnnlac`       |3-layer CNN (1CONV+2FC) based on QAT&LAC           |
+|`alexnet_lac`       |8-layerCNN (5CONV+3FC) based on QAT&LAC            |
+|`vgg11_lac`       |11-layerCNN (8CONV+3FC) based on QAT&LAC            |
 |`quantizer`       |INT8 quantization module            |
 |`common`    |Neural network common modules           |
 |`dataset`    |MNIST dataset and data loader             |
 
 ## 2. Core Files
-We will use MNIST dataset to train `simplecnn_lac` model and the core file is `simplecnn_lac/train_convnet.py`
+For example, if we use MNIST dataset to train `simplecnn_lac` model and the core file is `simplecnn_lac/train_convnet.py`.
 
 |Python File   | Description                         |
 |:--        |:--                          |
