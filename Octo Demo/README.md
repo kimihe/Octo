@@ -49,3 +49,7 @@ $ python train_simplecnn_LAC_mnsit.py
 Directly open the root folder, choose `train_simplecnn_LAC_mnsit.py`, click the `run` button.
 
 > **Please configure the Python Interpreter correctly**
+
+## 5. Relevant Publications
+* "Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning", In Proc. of USENIX ATC 2021.
+
