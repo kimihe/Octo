@@ -50,6 +50,19 @@ Directly open the root folder, choose `train_simplecnn_LAC_mnsit.py`, click the 
 
 > **Please configure the Python Interpreter correctly**
 
-## 5. Relevant Publications
-* "Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning", In Proc. of USENIX ATC 2021.
+## 5. Reference
+Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning, In Proc. of USENIX ATC, 2021.
+
+#### BibTeX
+```
+@inproceedings{octo_atc21,
+title = {Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning},
+author = {Qihua Zhou and Song Guo and Zhihao Qu and Jingcai Guo and Zhenda Xu and Jiewei Zhang and Tao Guo and Boyuan Luo and Jingren Zhou},
+booktitle = {2021 {USENIX} Annual Technical Conference ({USENIX} {ATC} 21)},
+year = {2021},
+url = {https://www.usenix.org/conference/atc21/presentation/zhou-qihua},
+publisher = {{USENIX} Association},
+month = july,
+}
+```
 
