@@ -1,9 +1,7 @@
-# Octo 
+# Octo
  
-Create tiny ML systems for on-device learning.
----
-
-> #### Latest Version: ver0.8.1-demo, Edited By: ZHOU Qihua, 2021.03.08, Mon.
+> Create tiny ML systems for on-device learning.  
+> Latest Version: ver0.8.1-demo, Edited By: ZHOU Qihua, 2021.03.08, Mon.
 
 ## 1. Demo Structure
 
